@@ -1,0 +1,12 @@
+/target/
+/test-output/
+.classpath
+.project
+.settings/
+/bin/
+.idea
+*.iml
+mvnw
+mvnw.cmd
+.mvn/
+.DS_store
